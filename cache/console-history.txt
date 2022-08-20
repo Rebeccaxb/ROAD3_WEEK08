@@ -1,0 +1,15 @@
+casino = await factory.deploy()
+factory = await factory
+casino = await factory.deploy()
+factory = await factory
+factory = ethers.getContractFactory("Casino")
+BigNumber { value: "48335146483888624" }
+balance0 = await ethers.provider.getBalance((await ethers.getSigner()).address)
+factory = ethers.getContractFactory("Casino")
+BigNumber { value: "4833514648…
+balance0 = await ethers.provid…
+Preview:
+Are you sure you want to paste 2 lines of text into the terminal?
+BigNumber { value: "48335146483888624" }
+balance0 = await ethers.provider.getBalance((await ethers.getSigner()).address)
+signer = await ethers.getSigner();
